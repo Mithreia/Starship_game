@@ -1,0 +1,7 @@
+import pygame
+import sys
+
+
+WINDOW_WIDTH, WINDOW_HEIGHT = 1000, 1040
+FRAMERATE = 60
+ANIMATION_SPEED = 6
